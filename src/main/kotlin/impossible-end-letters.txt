@@ -1,0 +1,9 @@
+bsg
+bsn
+gb
+gnb
+gsb
+gsn
+sgn
+sng
+sg
